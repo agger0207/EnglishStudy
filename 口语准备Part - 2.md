@@ -312,7 +312,7 @@ Describe a time when you got lost.
 可以考虑去德国的那两次；一次是坐错车，一次是因为罢工
 
 The last time I got lost in another city was in 2014. I went to Beijing together with two of my friends for our summer vacation. We all felt exalted to be in the capital of our country, but soon we became anxious when we got lost. As a metropolitan, Beijing has very complex road network. Someone with no sense of direction like us will easily get lost even using a map or following the instruction of GPS. Besides, Beijing is a historic city with a large number of tourist attractions. Some tourist attractions are quite near to each other, so we didn’t have to take the bus just walked to the next attraction. We soon regretted our decision not to take the bus since we couldn’t find the right way. On our way to the next destination, we chatted with each other and were engrossed in our conversation. All of a sudden we lost track of where we were. And the worst thing was, the signals of our cell phones were not very good and we could not connect to the digital map. We were so worried and didn’t know what to do. There were hardly any people on that quiet street. We had to keep on walking and we all hoped that we could meet someone who knew the right way. Fortunately, we met a local at an intersection and asked him for help. He drew us a simple map which finally led us to our destination. 
-## 43 特别的建筑
+## 43 特别的建筑 (Done)
 ### Question
 Describe an unusual building you’ve visited
 You should say
@@ -322,25 +322,13 @@ What it looks like
 And explain why you think it is unusual
  
 ### Answer 
- 
-Ok right then, well the building I’ve decided to talk about is The Oriental Pearl Tower, at least I think that’s the name of it in English, cos um, I normally always call it by its Chinese name, which is 东方明珠.
- 
-Anyway, as for where it is, well it’s basically right in the middle of Shanghai, on the Pudong side, but you can see it across from the river, and I think it’s probably fair to say that it’s the main focal point of the city. You know, you can’t really miss it!
- 
-And um, regarding what it’s actually used for, well I guess it was built primarily to act as a TV transmission tower, although it’s more of a tourist attraction now. I mean, that’s what people know it as really! And um, if you haven’t seen it before, it’s basically like, um, how can I put it? Um… it’s kind of just like a tall pointed tower with a load of balls stacked on top of each other, some bigger than others. So it’s actually pretty simple in design, but there’s something about it that makes it look really cool and unique. Oh and I also shouldn’t forget to mention that, at night, it’s lit up really well, and I think most people would agree that it actually looks quite a lot better at night than it does during the day. But anyway, um… what else is there to say about it? Uh… I suppose it also looks kind of futuristic in a way, you know, like something out of a sci-fi film! So yeah, it’s a really cool building.
- 
-And in terms of why I think it’s unusual, well I guess there’s not really any other building like it in the world, at least as far as I know! So it really kind of sticks in the memory once you’ve seen it. And as such, it’s become, like, the main landmark of Shanghai. So um, yeah, that’s pretty much all there is to say!
- 
-Notes:
-right in the middle - 在正中 (“right” emphasizes that it’s in the very middle)
-I think it’s (probably) fair to say that – 我觉得可以说
-the main focal point -主要的焦点
-it’s lit up at night - 晚上亮起来
-what else is there to say about it – 还有什么话可以说呢？
-futuristic -未来派的
-at least as far as I know – 至少据我所知是这样的
-sticks in the memory – 清楚地留在记忆里
-that’s pretty much all there is to say – 差不多没有别的话可说了！
+
+OK right then, the building I've decided to talk about is the Strasbourg Cathedral, a very famous Gothic architecture. As its name, it locates in Strasbourg which is a beautiful city in northeast of France.
+
+This Cathedral is one of the biggest church in Euroup and it is still in use. As I remember, people started to build it from 12th century but it took nearly 200 years to finish it. It is also the oldest Christmas Market in the country. By the way, it trends to be one of most famous tourist site in France. Thousands of tourists from all over the world visit this building every day.
+
+In my opinon, this bulding is really amazing. It is more than 140 meters high and there is a very sharp tower in the top. I climbed to the top throught the narrow staires and I really enjoyed the beatiful sights from the top. Although I have seen other tall buildings in China, but honestly, I have to say that I have never seen such magnificant buildings before. As least as far as I know, it hasn't been rebuilt at all. Besides that, it represents a totally differnt cuture for me. All of these reasons are why I think it it unusual.
+
 
 ## 44 网上学习
 
@@ -375,8 +363,8 @@ Describe an interesting website you have visited.
 这个相对简单，可以说知乎或者糗百
 
 ### Answer
-例文：
-Weibo is a popular website for personal social network in China. I signed up my own account in 2009. It’s similar to twitter, users may create a personal profile, and then add other users as friends and exchange messages. People share their mood, record the things they do, or show their selfies to their friends or even some strangers. It is quite convenient for users to know what their friends are doing because of the function of automatic notifications when they update their profile. Many celebrities have signed up their accounts in Weibo, they sometimes update their recent selfies or report their recent schedule. Users can follow the people they are interested in in Weibo so that they can receive the recent information of their friends or some celebrities they like. Some users share some funny things or funny pictures and other users can comment on these things. Thus, some users become popular in Weibo although they’re just some normal people. I use Weibo almost every day because I don’t want to miss any piece of interesting news. In this way, I can also keep in touch with my friends and communicate with some strangers who have the same interests with me. 
+
+Zhihu is a popular Question and Answer website in China. It is very similar with Quar I signed up my own account in 2009. It’s similar to twitter, users may create a personal profile, and then add other users as friends and exchange messages. People share their mood, record the things they do, or show their selfies to their friends or even some strangers. It is quite convenient for users to know what their friends are doing because of the function of automatic notifications when they update their profile. Many celebrities have signed up their accounts in Weibo, they sometimes update their recent selfies or report their recent schedule. Users can follow the people they are interested in in Weibo so that they can receive the recent information of their friends or some celebrities they like. Some users share some funny things or funny pictures and other users can comment on these things. Thus, some users become popular in Weibo although they’re just some normal people. I use Weibo almost every day because I don’t want to miss any piece of interesting news. In this way, I can also keep in touch with my friends and communicate with some strangers who have the same interests with me. 
 
 ## 46 理想夙愿
 
