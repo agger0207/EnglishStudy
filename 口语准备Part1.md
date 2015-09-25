@@ -1,5 +1,7 @@
 # 口语准备Part 1
 
+learning curve
+
 http://page.renren.com/600009371/album/1114177002
 
 ## 一 Vegetables and fruits
